@@ -2,7 +2,7 @@ name: Update Metrics
 
 on:
   schedule:
-    - cron: '0 * * * *' # Set your desired schedule, this example runs every hour
+    - cron: '0,30 * * * *' # Set your desired schedule, this example runs every hour
 
 jobs:
   update_metrics:
@@ -14,3 +14,5 @@ jobs:
 
       - name: Metrics Embed
         uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.TOKEN }}
