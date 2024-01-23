@@ -1,5 +1,5 @@
-# 💻 About Me
-## Mohamed Shil
+# Mohamed Shil
+## 💻 About Me
 
 - 4th Semester Computer Science Student @ UCL
 
