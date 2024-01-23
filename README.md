@@ -1,5 +1,8 @@
-![matrix](https://github.com/Moha2088/Moha2088/assets/113173091/dee96a82-280a-4432-85f0-2cac17ceeaef)
+# 💻 About Me
+## Mohamed Shil
 
- 
+- 4th Semester Computer Science Student @ UCL
 
-![Mohamed's profile stats](https://github-readme-stats.vercel.app/api?username=Moha2088&show_icons=true&theme=tokyonight)
+- Interested in .NET and Android Development
+
+![Mohamed's profile stats](https://github-readme-stats.vercel.app/api?username=Moha2088&show_icons=true&theme=radical)
