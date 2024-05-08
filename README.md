@@ -3,7 +3,7 @@
 
 - 4th Semester Computer Science Student @ UCL
 
-- Interested in .NET and Android Development
+- Interested in .NET
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moha2088&hide_progress=true&theme=tokyonight)
 
