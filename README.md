@@ -1,11 +1,11 @@
-# Mohamed Shil
-## 💻 About Me
+![1719348949335](https://github.com/user-attachments/assets/32369055-3911-47b6-96e8-d240bb92ef43)
 
-- 4th Semester Computer Science Student @ UCL
-
-- Interested in .NET
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moha2088&hide_progress=true&theme=tokyonight)
-
-
-![Mohamed's profile stats](https://github-readme-stats.vercel.app/api?username=Moha2088&show_icons=true&theme=tokyonight)
+```cs
+   var mohamed = new PersonBuilder()
+   .WithName("Mohamed")
+   .WithAge(24)
+   .WithOccupationAs("Backend Developer Intern")
+   .AtCompany("Bionic System Solutions")
+   .AndWithSkills( new List{ "C#", "OOP", "REST API", "ASP.NET", "EF Core" })
+   .Build();
+```
