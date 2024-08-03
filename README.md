@@ -3,9 +3,10 @@
 ```cs
    var mohamed = new PersonBuilder()
    .WithName("Mohamed")
+   .WithLastName("Shil")
    .WithAge(24)
    .WithOccupationAs("Backend Developer Intern")
    .AtCompany("Bionic System Solutions")
-   .AndWithSkills( new List{ "C#", "OOP", "REST API", "ASP.NET", "EF Core" })
+   .AndWithSkills(new List<string> { "C#", "OOP", "REST API", "ASP.NET", "EF Core" })
    .Build();
 ```
